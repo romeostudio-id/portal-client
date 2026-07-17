@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "Romeo Studio",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyA4cCY1jeg7Zsju-639aRyJiMn9Xukq94E",
     whatsappAdmin: "6285150856485" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
